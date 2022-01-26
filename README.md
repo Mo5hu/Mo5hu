@@ -9,7 +9,7 @@
   <a href="https://github.com/Mo5hu"><img height="30" src="https://img.shields.io/badge/-GITHUB-333?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <div align="center">
-<h3>MEAN Stack and Mobile Developer</h3>
+<h3>Mobile Developer</h3>
 </div>
 <br />
 <div align="center">
@@ -19,7 +19,7 @@
 <div align="left">
   <h1>Introduction 🎬</h1>
   <p>
-    Provide Business solutions with IoT, Cloud Computing and Application Development. 
+    Provide Business solutions with Mobile Application & Web Development. 
     </br> </br>
     I am a coding enthusiast and I've been developing together small devices and programs such as games with QR Scan for hints and clues and websites and application with Climate and Humidity sensors from back in 2016. I started learning JavaScript back then as well and have been professionally working in the field of App Development (mainly Mobile) since 2018 after getting into university. During this time, I mostly focused on developing landing pages and small websites.
   </p>
@@ -29,12 +29,7 @@
   </p>
   <h1>Skills 👾</h1>
   <p>
-    Can provide Consultation with Emerging Tech:
-    </br> - BlockChain Network
-    </br> - Crypto Currency
-    </br> - Internet Of Things
-    </br> - Artificial Inteligence
-    </br> </br> I have been developing Dapps using Ethereum Smart Contracts for quite sometime. I believe in near future the Blockchain will be the new hot market in which everyone would be investing so why not getting ready for it.  IoT has always impressed me because automation can make changes in people's life, they are not aware of, they can save time spent, on doing repetitive tasks, daily by automating them, with huge benefits, accuracy, detailed past history and mistakes to be improved, and invest that time on some other ideas and stuff.
+    I am a Software Engineer. I am a proficient web and mobile app developer and passionate entrepreneur having 5+ years of IT industry experience.   I hold a Bachelor's degree in Computer Science & Engineering from a reputed university in Pakistan. I started my career as a web developer in 2016, and since then, I have explored the diverse mobile and web technologies. I love to discuss ideas, collaborate with clients, simplify complex things and craft scalable digital solutions people fall in love with.
   </p>
   <h2>Industries 🏗</h2>
   <p>
