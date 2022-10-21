@@ -48,9 +48,8 @@
     I use Kotlin for native android development. I have created a backend in Node, Express and MongoDB.
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=Android">
-    <img src="https://img.shields.io/badge/-NodeJs-000000?style=for-the-badge&logo=kotlin">
-
+    <img src="https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=javascript">
+    <img src="https://img.shields.io/badge/-NodeJs-000000?style=for-the-badge&logo=express">
     <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5">
     <img src="https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass">
     <img src="https://img.shields.io/badge/-Ionic-000000?style=for-the-badge&logo=ionic">
