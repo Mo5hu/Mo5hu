@@ -9,7 +9,7 @@
   <a href="https://github.com/Mo5hu"><img height="30" src="https://img.shields.io/badge/-GITHUB-333?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <div align="center">
-<h3>Mobile Developer</h3>
+<h3>Node.js Developer</h3>
 </div>
 <br />
 <div align="center">
@@ -19,13 +19,13 @@
 <div align="left">
   <h1>Introduction 🎬</h1>
   <p>
-    Provide Business solutions with Mobile Application & Web Development. 
+    Provided services to Mobile & Web Startups and SME. 
     </br> </br>
     I am a coding enthusiast and I've been developing together small devices and programs such as games with QR Scan for hints and clues and websites and application with Climate and Humidity sensors from back in 2016. I started learning JavaScript back then as well and have been professionally working in the field of App Development (mainly Mobile) since 2018 after getting into university. During this time, I mostly focused on developing landing pages and small websites.
   </p>
   <h1>Background ✨</h1>
   <p>
-    In 2018, I started learning Flutter. Since then, I have worked on many applications and produced cross platform applications which work on Desktop, Android, iOS and PWA. I also started learning many backend technologies as well such as Node, Express and MongoDB. My university classes complimented my online learning and I have been able to develop complete solutions for different problems using my skills as a Full Stack Developer.
+    In 2018, I started learning Typescript. Since then, I have worked on few applications and deployed cross platform applications which work on Desktop, Android, iOS and PWA. I also started learning many backend technologies as well such as Node, Express and MongoDB. My university classes complimented my online learning and I have been able to develop complete solutions for different problems using my skills as a Full Stack Developer.
   </p>
   <h1>Skills 👾</h1>
   <p>
@@ -38,8 +38,6 @@
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/-Full Stack Development-000000?style=for-the-badge">
-    <img src="https://img.shields.io/badge/-Flutter Cross Platform Development-000000?style=for-the-badge">
-    <img src="https://img.shields.io/badge/-Kotlin Native Android Development-000000?style=for-the-badge">
     <img src="https://img.shields.io/badge/-AI & Machine Learning-000000?style=for-the-badge">
     <img src="https://img.shields.io/badge/-BlockChain & Cryptocurrency-000000?style=for-the-badge">
     <img src="https://img.shields.io/badge/-Internet Of Things-000000?style=for-the-badge">
@@ -50,9 +48,9 @@
     I use Kotlin for native android development. I have created a backend in Node, Express and MongoDB.
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=Android">
-    <img src="https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin">
-    <img src="https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter">
+    <img src="https://img.shields.io/badge/-Javascript-000000?style=for-the-badge&logo=Android">
+    <img src="https://img.shields.io/badge/-NodeJs-000000?style=for-the-badge&logo=kotlin">
+
     <img src="https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5">
     <img src="https://img.shields.io/badge/-SASS-000000?style=for-the-badge&logo=sass">
     <img src="https://img.shields.io/badge/-Ionic-000000?style=for-the-badge&logo=ionic">
