@@ -9,7 +9,7 @@
   <a href="https://github.com/Mo5hu"><img height="30" src="https://img.shields.io/badge/-GITHUB-333?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <div align="center">
-<h3>Node.js Developer</h3>
+<h3>Fullstack Developer</h3>
 </div>
 <br />
 <div align="center">
