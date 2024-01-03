@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hello Visitor
+   <h1>Hello Visitor, This is Shaikh Mohsin Bin Amjad Ali
    </h1>
 </div>
 <p align="center">
@@ -8,19 +8,16 @@
   <a href="https://github.com/Mo5hu"><img height="30" src="https://img.shields.io/badge/-GITHUB-333?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <div align="center">
-<h3>Mid Level Fullstack Flutter Developer</h3>
-</div>
-<br />
-<div align="center">
-  <img height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif" />
+<h3>Mid - Senior Mobile Application Engineer</h3>
 </div>
 <br />
 <div align="left">
   <p align="center">
+    <img src="https://img.shields.io/badge/-Flutter-000000?style=for-the-badge">
+    <img src="https://img.shields.io/badge/-Firebase-000000?style=for-the-badge">
     <img src="https://img.shields.io/badge/-Full Stack Development-000000?style=for-the-badge">
     <img src="https://img.shields.io/badge/-AI & Machine Learning-000000?style=for-the-badge">
     <img src="https://img.shields.io/badge/-BlockChain & Cryptocurrency-000000?style=for-the-badge">
-    <img src="https://img.shields.io/badge/-Internet Of Things-000000?style=for-the-badge">
   </p>
 <h3>Unveiling a Journey of My Technological Marvels 🚀💡</h3>
 <p>Greetings, dear reader! Allow me to take you on an exhilarating voyage through my life's tapestry, woven intricately with threads of technology, innovation, and unyielding passion. I am a Software Engineer, driven by a fervent dedication to crafting transformative web and mobile applications. With over five years of industry experience, I stand as a testament to the boundless possibilities that emerge when creativity meets the digital realm.
